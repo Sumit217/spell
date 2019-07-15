@@ -37,10 +37,3 @@ Future Improvements:
 
 5. we could improve the implementation by making it much faster, without changing the results. We could re-implement in a compiled language rather than an interpreted one. We could cache the results of computations so that we don't have to repeat them multiple times.
 
-
-####
-
-Other methods,
-
-1. 
-Since, spelling correction in natural language processing mostly relies on pre-defined lexicons to detect spelling errors. 

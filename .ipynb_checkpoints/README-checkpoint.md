@@ -36,3 +36,4 @@ Future Improvements:
 4. The context of the surrounding words can help when there are obvious errors, but two or more good candidate corrections. Why should 'thear' be corrected as 'there' rather than 'their'? It is difficult to tell by the single word alone, but if the query were correction('There's no there thear') it would be clear.To build a model that looks at multiple words at a time, we will need a lot of data.I believe that a spelling corrector that scores 90% accuracy will need to use the context of the surrounding words to make a choice.
 
 5. we could improve the implementation by making it much faster, without changing the results. We could re-implement in a compiled language rather than an interpreted one. We could cache the results of computations so that we don't have to repeat them multiple times.
+
