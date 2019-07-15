@@ -37,3 +37,6 @@ Future Improvements:
 
 5. we could improve the implementation by making it much faster, without changing the results. We could re-implement in a compiled language rather than an interpreted one. We could cache the results of computations so that we don't have to repeat them multiple times.
 
+####
+
+There are other methods such as using bi-directional lstm and seqtoseq based models which gives much better results although require both time and resources(data and computational) will be the next trials to justify the point no. 4 above. 
